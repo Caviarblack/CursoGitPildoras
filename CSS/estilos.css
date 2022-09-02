@@ -1,5 +1,14 @@
-.impresoras {
-    width: 50%;
+.impresoras{
+    font-family:Verdana;
+}
+
+.impresora h1{
+    font-family:helvetica;
+    font-size: 18px;
+}
+
+.imgImpresoras {
+    width: 30%;
 }
 
 .placamadre {
