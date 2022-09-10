@@ -1,5 +1,8 @@
+h1 {
+    font-family:Helvetica;
+}
 .impresoras{
-    font-family:Verdana;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .impresora h1{
@@ -24,4 +27,23 @@
 
 .logo {
     width: 20%;
+}
+
+.teclados img {
+    width: 30%;
+}
+
+.descripcionProductos img {
+    width: 30%;
+}
+
+.descripcionProductos article{
+    padding: 0 10% 0 10%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.descripcionProductos h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:beige;
+    padding: 10px 0 10px 0;
 }
